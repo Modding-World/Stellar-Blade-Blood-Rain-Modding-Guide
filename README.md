@@ -1,4 +1,5 @@
 # Resident-Evil-Requiem-Modding-Guide
-<img width="2048" height="1061" alt="GtLKqMLbMAAk-Qp" src="https://github.com/user-attachments/assets/0faca700-d8c6-4433-ab0e-745ef33d3d5e" />
+<img width="1344" height="768" alt="Gemini_Generated_Image_287w0n287w0n287w1" src="https://github.com/user-attachments/assets/98d5eec3-cb9b-4070-90ff-2932fc08d559" />
+
 
 This site is the main place to look for everything you need to create Mods for RE Requiem. The Wiki is filled with information already and the team is currently hard at work to craft it towards perfection. You can check out the [Wiki](https://github.com/Modding-World/Resident-Evil-Requiem-Modding-Guide/wiki) for guides, resources and tools and join the [Discord](https://discord.gg/mkTsmYQUdz) to discuss mods and ask for help, have fun!
