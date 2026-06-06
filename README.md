@@ -4,4 +4,4 @@
 
 
 
-This site is the main place to look for everything you need to create Mods for Stella Blade Blodd Rain. The Wiki would be filled with information and the team is currently hard at work to craft it towards perfection. You can check out the [Wiki](https://github.com/Modding-World/Resident-Evil-Requiem-Modding-Guide/wiki) for guides, resources and tools and join the [SBM Discord](https://discord.com/invite/stellarblademodding) and [MOW Discord](https://discord.gg/mkTsmYQUdz) to discuss mods and ask for help, have fun!
+This site is the main place to look for everything you need to create Mods for Stella Blade Blodd Rain. The Wiki would be filled with information and the team is currently hard at work to craft it towards perfection. You can check out the [Wiki](https://github.com/Modding-World/Resident-Evil-Requiem-Modding-Guide/wiki) for guides, resources and tools and join the [SBM Discord](https://discord.gg/sh5mhzF6Mu) and [MOW Discord](https://discord.gg/mkTsmYQUdz) to discuss mods and ask for help, have fun!
